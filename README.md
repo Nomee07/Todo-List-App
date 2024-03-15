@@ -13,7 +13,7 @@ This is a simple todo list web application built using HTML, CSS, and JavaScript
 ## Technologies Used
 
 - HTML5
-- CSS3
+- CSS
 - JavaScript
 
 ## Project Structure
